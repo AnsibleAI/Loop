@@ -5,7 +5,6 @@ https://stackoverflow.com/questions/42167747/how-to-loop-over-this-dictionary-in
 
 ## example:
 Now Ansible allows this
-
 ```
 - name: add several users
   user:
